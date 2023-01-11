@@ -9,7 +9,7 @@
       "name": "Xabier",
       "surnames": "Rey González",
       "title": "Science Teacher",
-      "description": "I graduated in Veterinary Medicine in February 2012. In July of the same year I obtained my first job as animal caregiver in a successful biotech company in O Porriño. It was an undergraduate work, but it was the best opportunity I had to get to know the company and also for the company to know me. In March 2014, I was promoted to Veterinary Technician, responsible for the bioteriums in which I worked, and this was my job until November 2018. During those years I also participated in the publication of a scientific article with the University of Vigo and I studied the Master of Secondary Education. Once I got my master´s degree, in a matter of weeks I got a job as a full-time science teacher at Kings College Guildford, from December 2018 to July 2019.\n\nI am a committed, active and pro-active worker, constantly seeking for improvement and learning. In addition to my professional experiences, I would highlight my university files, participation in a research article with the University of Vigo, participation in a project to recover a species of psitacide in Isla Margarita (Venezuela) and a high level of English (C2).",
+      "description": "",
       "avatar": {
         "alt": "",
         "link": ""
@@ -125,6 +125,22 @@
             ]
           }
         ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Galician",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ]
   },
