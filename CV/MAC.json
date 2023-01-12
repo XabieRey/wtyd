@@ -29,38 +29,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Jul 2012 - Feb 2014 "
-        },
-        "roles": [
-          {
-            "name": "Laboratory animal caretaker",
-            "startDate": "2023-01-10",
-            "challenges": [
-              {
-                "description": "Laboratory animal caretaker"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Mar 2014 - Nov 2018 "
-        },
-        "roles": [
-          {
-            "name": "Veterinary Technician",
-            "startDate": "2023-01-10",
-            "challenges": [
-              {
-                "description": "Veterinary Technician"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Gándara International School "
         },
         "roles": [
@@ -69,7 +37,7 @@
             "startDate": "2020-08-01",
             "challenges": [
               {
-                "description": "Teacher of elementary education at Gándara International School. The basis of our pedagogy is active and experiential learning, with a solid Montessori foundation and open to other methodologies."
+                "description": "- Coordinador de ciclo.\n- Acompañamiento y seguimiento socio-emocional de niños y niñas de 6-12 años.\n- Pedagogía vivencial y basada en proyectos\n- Tutor\n- Gestión de TIC.\n- Líder de implantación de software Additio."
               }
             ]
           }
@@ -111,16 +79,33 @@
       },
       {
         "organization": {
-          "name": "6 yrs 5 mos"
+          "name": "CZ Veterinaria"
         },
         "roles": [
           {
-            "name": "CZ Veterinaria",
+            "name": "Técnico veterinario, responsable de bienestar animal",
             "startDate": "2014-03-01",
             "finishDate": "2018-11-30",
             "challenges": [
               {
-                "description": "Veterinary Technician"
+                "description": "-Implantación de software Anibio.\n-Capacitación y supervisión del personal del animalario.\n-Gestión de un equipo de cuidadores, organización y supervisión del trabajo diario.\n-Mantenimiento del estado de salud de los animales y tratamiento de éstos en caso necesario.\n-Eutanasia.\n-Control de libros de registro y creación de procedimientos de trabajo.\n-Aplicación y enseñanza de los procedimientos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CZ Veterinaria"
+        },
+        "roles": [
+          {
+            "name": "Cuidador de animalarios",
+            "startDate": "2012-07-01",
+            "finishDate": "2014-02-01",
+            "challenges": [
+              {
+                "description": "-­Cuidado y manejo de animales de experimentación\n-Valoración del estado de salud y bienestar de los animales: oveja, conejo, cerdo, cobaya, ratón, bovino\n-Eutanasia\n-Colaboración en la eutanasia y autoclavado de animales utilizados en experimentación\n­-Trabajo en instalaciones de bioseguridad tipo P3\n-Descontaminación de áreas y superficies\n-Control y mantenimiento de equipos de las diferentes áreas del animalario\n-Revisión y actualización de registros informáticos y manuscritos\n­-Gestión de residuos\n-Limpieza general"
               }
             ]
           }
@@ -141,6 +126,14 @@
       {
         "name": "Spanish",
         "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Android Studio",
+          "type": "technology"
+        }
       }
     ]
   },
