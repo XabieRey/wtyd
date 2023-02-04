@@ -204,6 +204,10 @@
         {
           "name": "Kotlin",
           "type": "technology"
+        },
+        {
+          "name": "XML",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
