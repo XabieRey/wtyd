@@ -180,6 +180,19 @@
         "institution": {
           "name": "Universidad de Santiago de Compostela"
         }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "RDBMS Certification Course",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Programming Hub",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/13/395e7db9-6d16-4e05-8673-91882bf2c638_ph.jpg",
+            "alt": "PH.JPG"
+          }
+        }
       }
     ],
     "softSkills": [
