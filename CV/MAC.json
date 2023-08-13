@@ -36,6 +36,27 @@
     "jobs": [
       {
         "organization": {
+          "name": "Game-based mentoring",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/13/c902ff83-d8f1-4d08-a837-f23ea75503bf_logo.png",
+            "alt": "Logo.PNG"
+          },
+          "URL": "https://gamebasedmentoring.com/"
+        },
+        "roles": [
+          {
+            "name": "Co-founder at Game-based mentoring",
+            "startDate": "2023-06-01",
+            "challenges": [
+              {
+                "description": "Psycho-pedagogical support based on board games"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Gándara International School "
         },
         "roles": [
