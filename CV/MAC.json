@@ -8,29 +8,19 @@
     "profile": {
       "name": "Xabier",
       "surnames": "Rey González",
-      "title": "",
+      "title": "Title",
       "description": "Actualmente soy docente en una escuela vivencial de educación primaria. Es una profesión que me apasiona, pero en la que no veo posible una conciliación familiar que no quiero descuidar.\n\nEn todos mis puestos de empleo he tenido responsabilidades relacionadas con la informática, desde líder de implantación de softwares hasta responsable de TIC, trabajando también mucho con Excel, herramienta con la que llegué a implantar un sistema de pedidos y programación de controles de calidad a partir de la introducción de lotes de producción, con el que coordiné un equipo de trabajadores y sistematicé la comunicación y pautas de trabajo, recibiendo el reconocimiento de mandos superiores de mi empresa. La agilización del trabajo a través de la tecnología es algo que siempre he utilizado en mi trabajo de forma espontánea y natural. En las escuelas en las que he trabajado también he gestionado stocks, pedidos, comunicación con familias y programaciones de formas similares. Todo esto por iniciativa propia y en ocasiones dedicando tiempo personal sin ninguna expectativa ni demanda de retribución de ningún tipo.\n\nRecuerdo que la informática fue la primera profesión que escogí desde bien pequeñito, junto con la de \"inventor\". Trasteé con relojes, videoconsolas estropeadas, radios y distintos juegos tecnológicos durante toda mi infancia y adolescencia. Ya de mayor, me estoy formando por entretenimiento y sigo configurando videoconsolas y máquinas arcade en mi tiempo libre, teniendo una habitación en mi casa que utilizo como una especie de santuario y homenaje a esta faceta de mi vida que siento tan vocacional y emocional. Como ocurre en tantos casos, pasiones posteriores y circunstancias personales me llevaron a otros desarrollos profesionales en los que también he disfrutado mucho. Sin embargo, creo firmemente que las cosas que te apasionan deben ser perseguidas, y mi situación personal y familiar me empuja a buscar una profesión que me permita gestionar mi tiempo en cierta medida y en la que pueda aspirar a promocionar. Busco un primer empleo que me permita trabajar en el desarrollo de software para dedicarme a ello enteramente. Actualmente me formo durante las noches a través de bootcamps y recursos gratuítos o con precios y horarios compatibles con mi situación.\n\nSi bien no puedo ofrecer aún una formación reglada o unos conocimientos profundos, sí ofrezco pensamiento crítico, creativo y analítico y auténtica pasión por la tecnología. Soy consciente de la dificultad que supone contratar a un trabajador sin experiencia contrastada, pero creo que en un tiempo relativamente corto podré estar aportando grandes valores a la empresa en la que trabaje. Por supuesto, sabiendo qué herramientas necesitaría, estaría dispuesto a formarme por mi cuenta para una incorporación a medio plazo.",
       "avatar": {
-        "alt": "trimphoto_2023-04-17_23-04-28.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/01/450529ea-8f65-4a85-a62a-7923800f0fb9_trimphoto_2023-04-17.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/01/450529ea-8f65-4a85-a62a-7923800f0fb9_trimphoto_2023-04-17.jpg",
+        "alt": "trimphoto_2023-04-17_23-04-28.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJddrFW_PDMQ0RvTJmWygMUZ8)",
         "country": "España",
         "region": "Galicia",
-        "municipality": "Mos",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Mos"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/XabieRey"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/xabier-rey-gonz%C3%A1lez-b7b23950/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Música",
@@ -133,7 +123,7 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -159,13 +149,56 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso online “The Complete Android 12 & Kotlin Development Masterclass” (2022).",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/certificate/UC-aa5bb398-48f1-4e0d-9888-55093f2481c1/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/13/d990a03b-c3a3-442f-9d4e-905dd34161fe_udemy.jpg",
+            "alt": "udemy.JPG"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Licenciado en Veterinaria",
         "startDate": "2012-04-01",
         "institution": {
-          "name": "Universidad de Santiago de Compostela",
-          "description": ""
+          "name": "Universidad de Santiago de Compostela"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacidad de mentorización",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de recibir feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
         }
       }
     ]
@@ -174,8 +207,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/xabier-rey-gonz%C3%A1lez-b7b23950/"
+          "URL": "https://www.linkedin.com/in/xabier-rey-gonz%C3%A1lez-b7b23950/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/XabieRey",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "xabierrey@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "605397221",
+          "countryCode": "+34"
         }
       ]
     },
@@ -208,5 +254,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría iniciarme en esta profesión a través de un trabajo que me permitiera aprender en equipo y autónomamente. Llevo toda la vida trasteando con distintos aparatos, desde relojes y consolas cuando era muy pequeño hasta máquinas arcade y Raspberry ahora de adulto. También me he estado formando en Arduino, Android Studio y Java en mi tiempo libre, por puro amor al reto y a la profesión. Tengo pasión por la docencia, en la que trabajo actualmente y trato de inculcar el interés por la tecnología, pero no me permite aspirar a una conciliación familiar que necesito. También me interesa tener posibilidad de promoción, cosa que encuentro ligeramente limitada mi trabajo actual. Por eso he decidido transformar mi carrera, si bien creo que la enseñanza puede seguir siendo parte de mi día a día en este nuevo ámbito.\n\nValoro enormemente el buen ambiente de trabajo, y por lo tanto es algo que cuido. En este sentido, me comunico siempre de forma asertiva y no violenta. También me parece importante que el ámbito laboral esté abierto a expresarse emocionalmente, para encontrar complicidad y compromiso, y evitar el burnout."
   }
 }
