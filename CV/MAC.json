@@ -193,6 +193,25 @@
             "alt": "PH.JPG"
           }
         }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "SQL Certification Course",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Programming Hub",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/13/778a0404-a8cf-494a-b8bd-15cf853fbbf0_ph.jpg",
+            "alt": "PH.JPG"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
