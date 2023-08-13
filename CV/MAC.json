@@ -157,6 +157,12 @@
       },
       {
         "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Kotlin",
           "type": "technology"
         }
