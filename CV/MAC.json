@@ -230,6 +230,31 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Responsive Web Design",
+        "startDate": "2023-08-01",
+        "institution": {
+          "name": "freeCodeCamp",
+          "description": "In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.",
+          "URL": "https://www.freecodecamp.org/certification/XabierRey/responsive-web-design",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/19/94fb61b1-c4f6-4aa4-8433-ec3ae4b3a673_1589990867649.jpeg",
+            "alt": "1589990867649.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "SQL Certification Course",
         "startDate": "2023-03-01",
         "institution": {
