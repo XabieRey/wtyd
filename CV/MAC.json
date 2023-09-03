@@ -232,7 +232,11 @@
         "name": "Licenciado en Veterinaria",
         "startDate": "2012-04-01",
         "institution": {
-          "name": "Universidad de Santiago de Compostela"
+          "name": "Universidad de Santiago de Compostela",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/03/20e032ea-8c66-405d-a17c-804a84b9dd11_descarga-(2).png",
+            "alt": "descarga (2).png"
+          }
         }
       },
       {
