@@ -166,6 +166,12 @@
           "name": "JavaScript",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
