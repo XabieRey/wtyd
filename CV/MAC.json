@@ -347,10 +347,6 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
-          "type": "technology"
-        },
-        {
           "name": "JavaScript",
           "type": "technology"
         },
@@ -371,6 +367,16 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Kotlin",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gustaría iniciarme en esta profesión a través de un trabajo que me permitiera aprender en equipo y autónomamente. Llevo toda la vida trasteando con distintos aparatos, desde relojes y consolas cuando era muy pequeño hasta máquinas arcade y Raspberry ahora de adulto. También me he estado formando en Arduino, Android Studio y Java en mi tiempo libre, por puro amor al reto y a la profesión. Tengo pasión por la docencia, en la que trabajo actualmente y trato de inculcar el interés por la tecnología, pero no me permite aspirar a una conciliación familiar que necesito. También me interesa tener posibilidad de promoción, cosa que encuentro ligeramente limitada mi trabajo actual. Por eso he decidido transformar mi carrera, si bien creo que la enseñanza puede seguir siendo parte de mi día a día en este nuevo ámbito.\n\nValoro enormemente el buen ambiente de trabajo, y por lo tanto es algo que cuido. En este sentido, me comunico siempre de forma asertiva y no violenta. También me parece importante que el ámbito laboral esté abierto a expresarse emocionalmente, para encontrar complicidad y compromiso, y evitar el burnout."
   }
 }
