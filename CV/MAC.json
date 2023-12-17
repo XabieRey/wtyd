@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -29,6 +29,16 @@
       {
         "topic": "Papá, músico, boardgamer",
         "fact": "Soy padre de dos hijos y llevo tantos años haciendo música como disfrutando de la tecnología. También soy un apasionado de los juegos de mesa y las videoconsolas (¡no para los niños!)."
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/xabier-rey-gonz%C3%A1lez-b7b23950/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/XabieRey"
       }
     ]
   },
@@ -145,6 +155,7 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Native or bilingual proficiency"
       }
     ],
