@@ -67,6 +67,50 @@
       },
       {
         "organization": {
+          "name": "Autónomo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/12/097dc22c-51e3-472a-8ccc-c0240c58a845_wau-icon.png",
+            "alt": "WAU icon.png"
+          },
+          "URL": "https://play.google.com/store/apps/details?id=com.wtyd.HB"
+        },
+        "roles": [
+          {
+            "name": "Creador de We are Uryu (app en Google Play Store)",
+            "startDate": "2023-01-01",
+            "finishDate": "2024-03-01",
+            "challenges": [
+              {
+                "description": "Es un juego social. La comunidad tiene que organizarse para alcanzar puntuaciones comunes, pero la influencia de cada participante le otorga una puntuación individual, que después se sitúa en una tabla clasificatoria. Parte de los beneficios serán donados a una ONG para salvar vidas reales. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud Firestore",
+                "type": "technology"
+              },
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "XML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Gándara International School "
         },
         "roles": [
